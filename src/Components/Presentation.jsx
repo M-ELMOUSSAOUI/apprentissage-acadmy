@@ -18,9 +18,8 @@ export default function presentation() {
       <div id="slide-container" className="slideContainer">
         <h1> UI presentation </h1>
         <p>
-          Exercitation aliqua nostrud magna minim eu tempor culpa dolor
-          cupidatat enim consequat laborum.
-        </p>
+        Notre application propose de nombreux cours et vidéos pour différents niveaux.
+                </p>
         <Slide {...proprietes}>
           <div className="each-slide">
             <div className="image-container">

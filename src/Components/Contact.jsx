@@ -8,10 +8,10 @@ export default function Contact() {
                 <h3> Contacter-nous </h3>
             <div className="contact-input">
                 <div className="info">
-                    <p> +212 687996903 </p>
-                    <p> New York, 23, 1000 </p>
-                    <p> apprentissageAcademy@gmail.com </p>
-                    <p> +212 587996903 </p>
+                    <p> contact@apprentissageacademy.ma </p>
+                    <p> Groupe zaitoun 11,1er étage takadoum, rabat </p>
+                    <p> +212 661-900940 </p>
+                    <p> +212 699-279927 </p>
                 </div>
                 <div className="group-input">
                 <input type='Nom' placeholder='Nom' />
