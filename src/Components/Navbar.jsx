@@ -38,6 +38,11 @@ export default function Navbar() {
             <a href='#'> App  </a>
           </li>
         </Link>
+        <Link to="coments" spy={true} smooth={true} duration={1000}>
+          <li>
+            <a href='#'> Témoignages </a>
+          </li>
+        </Link>
         <Link to="contact" spy={true} smooth={true} duration={1000}>
           <li> <a href='#'> Contactez-nous </a> </li>
         </Link>
