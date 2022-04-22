@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/apprentissage-acadmy/static/css/main.e96aef60.css",
+    "main.js": "/apprentissage-acadmy/static/js/main.a4e8249d.js",
+    "static/media/slide1.png": "/apprentissage-acadmy/static/media/slide1.586a8caeeebcba6c69b2.png",
+    "static/media/slide3.png": "/apprentissage-acadmy/static/media/slide3.36dfa83dddff395dd510.png",
+    "static/media/slide2.png": "/apprentissage-acadmy/static/media/slide2.9426ebdf4b8d1121ffea.png",
+    "static/media/home.png": "/apprentissage-acadmy/static/media/home.deb7e02372c85ef83639.png",
+    "static/media/about.jpg": "/apprentissage-acadmy/static/media/about.409cb365ed60467b30d5.jpg",
+    "static/media/frame.png": "/apprentissage-acadmy/static/media/frame.011d6bf6b6d9715a7174.png",
+    "static/media/coments.jpg": "/apprentissage-acadmy/static/media/coments.305693da0f02b9055188.jpg",
+    "static/media/user.png": "/apprentissage-acadmy/static/media/user.a6143582309785dca610.png",
+    "static/media/logobg.png": "/apprentissage-acadmy/static/media/logobg.f53f8e9f0a15db973a1b.png",
+    "index.html": "/apprentissage-acadmy/index.html",
+    "main.e96aef60.css.map": "/apprentissage-acadmy/static/css/main.e96aef60.css.map",
+    "main.a4e8249d.js.map": "/apprentissage-acadmy/static/js/main.a4e8249d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e96aef60.css",
+    "static/js/main.a4e8249d.js"
+  ]
+}
