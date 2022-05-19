@@ -23,11 +23,11 @@ export default function Navbar() {
         <span className="nav-icon"> </span>
       </label>
       <ul className='menu' >
-        <Link to="home" spy={true} smooth={true} duration={1000}>
+        <Link class to="home" spy={true} smooth={true} duration={1000}>
           <li> <a href='#' className='active'> Accueil </a> </li>
         </Link>
         <Link to="team" spy={true} smooth={true} duration={1000}>
-          <li> <a href='#'> Notre équipe </a> </li>
+          <li> <a href='#' > Notre équipe </a> </li>
         </Link>
         <Link to="about" spy={true} smooth={true} duration={1000} >
           <li> <a href='#'> à propos de nous </a> </li>
@@ -38,7 +38,7 @@ export default function Navbar() {
             <a href='#'> App  </a>
           </li>
         </Link>
-        <Link to="coments" spy={true} smooth={true} duration={1000}>
+        <Link to="coments-element" spy={true} smooth={true} duration={1000}>
           <li>
             <a href='#'> Témoignages </a>
           </li>
